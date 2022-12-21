@@ -1,4 +1,4 @@
-# Preprocess
+# Methods
 
 ## Gene expression data
 
